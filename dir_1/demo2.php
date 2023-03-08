@@ -1,1 +1,1 @@
-This is my demo2.php file for testing.
+updating demo2.php file after moving from one dirctry to another.
